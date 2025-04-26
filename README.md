@@ -17,7 +17,7 @@ Tasks can be added, completed, or deleted, and they are saved to LocalStorage fo
 - LocalStorage API
 
 ## Live Demo
-🔗 *[Will add the link after we deploy on Netlify]*
+🔗 [view live here](https://strong-monstera-e0e271.netlify.app/)
 
 ## Installation
 1. Clone the repository:
